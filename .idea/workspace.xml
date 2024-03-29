@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/Task023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/motorcycles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/DriveCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/DriverKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/LockKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Seeds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_2/Wheels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_4/Ex2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_4/Ex2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz_4/Ex_1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eNIV8qINyuWIdHIq4IEnQEcP8Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex2_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="" />
+      <created>1711738630939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711738630939</updated>
+    </task>
+    <servers />
+  </component>
+</project>
