@@ -1,42 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_doWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task021_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/Task023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_1/ex03/motorcycles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/DriveCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/DriverKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/LockKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Seeds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_2/Wheels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_4/Ex2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_4/Ex2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz_4/Ex_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="com1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,15 +22,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ex2_1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex2_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
