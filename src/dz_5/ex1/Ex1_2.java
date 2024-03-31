@@ -1,4 +1,4 @@
-package dz_5;
+package dz_5.ex1;
 
 public class Ex1_2 {
     public static void main(String[] args) {
