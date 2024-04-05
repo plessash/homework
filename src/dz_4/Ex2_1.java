@@ -21,6 +21,7 @@ public class Ex2_1 {
             }
              for (int i =0; i< massive.length; i++){
                  System.out.println(massive[i]);
+                 System.out.println(2 + 2 + " = 4");
             }
         }
     }
