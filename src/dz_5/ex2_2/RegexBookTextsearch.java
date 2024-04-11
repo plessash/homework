@@ -1,9 +1,4 @@
-package dz_5.ex2;
-import javax.swing.*;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+package dz_5.ex2_2;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

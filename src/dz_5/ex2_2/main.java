@@ -1,4 +1,4 @@
-package dz_5.ex2;
+package dz_5.ex2_2;
 
 import java.io.IOException;
 import java.nio.file.Files;

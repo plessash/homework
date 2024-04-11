@@ -1,9 +1,4 @@
-package dz_5.ex2;
-
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+package dz_5.ex2_2;
 
 public class SimpleBookTextSearch implements Findable {
     int count = 0;
