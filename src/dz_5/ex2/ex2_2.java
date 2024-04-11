@@ -11,17 +11,24 @@ import java.util.regex.Pattern;
 import static java.awt.SystemColor.text;
 
 public class ex2_2 {
+
     public static void main(String[] args) throws FileNotFoundException {
+        String currentString = new String();
+        String path = "src/dz_5/Voina i Mir.txt";
+        Scanner scanner = new Scanner(new File("src/dz_5/Voina i Mir.txt"));
+        while (scanner.hasNextLine()) {
+            currentString = scanner.nextLine();
+        }
+        scanner.close();
+        Pattern p = Pattern.compile("К");
+        Matcher matcher = p.matcher(currentString);
+        System.out.println(currentString);
+        while (matcher.find()) {
+            System.out.print(matcher.group());
 
-String path = "src/dz_5/ex2/Voina i Mir.txt";
-File file = new File(path);
-Scanner scanner = new Scanner(file);
-while (scanner.hasNextLine())
-
-    System.out.println(scanner.nextLine());
-Pattern p = Pattern.compile("");
-Matcher matcher = p.matcher();
         }
     }
+
+}
 
 
