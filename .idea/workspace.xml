@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="Ex2_1 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dz_4/Ex2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_4/Ex2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dz_5/ex1/Ex1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_5/ex1/Ex1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dz_5/ex1/Ex1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_5/ex1/Ex1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dz_5/ex1/Ex1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_5/ex1/Ex1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz_5/ex2/ex_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_5/ex2/RegexBookTextsearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,26 +42,36 @@
     "Application.Ex2_1.executor": "Run",
     "Application.MyArrayList.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.Regex.executor": "Run",
+    "Application.SimpleBookTextSearch.executor": "Run",
     "Application.Task011.executor": "Run",
+    "Application.Text.executor": "Run",
+    "Application.ex22_2.executor": "Run",
     "Application.ex2_1.executor": "Run",
     "Application.ex2_2.executor": "Run",
     "Application.ex3_1.executor": "Run",
     "Application.ex_22.executor": "Run",
     "Application.example.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.myArrayList.executor": "Run",
     "Application.myarraylist.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mac/IdeaProjects/Final",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="dz_5.ex2" />
+      <recent name="dz55" />
       <recent name="dz_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dz_5" />
+      <recent name="$PROJECT_DIR$/src/dz55" />
       <recent name="$PROJECT_DIR$/src/dz_5/ex2" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -147,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711953935498</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ex2_1 done">
+      <option name="closed" value="true" />
+      <created>1712346439187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712346439188</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ex2_1 done">
+      <option name="closed" value="true" />
+      <created>1712827146005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712827146005</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,5 +179,15 @@
     <MESSAGE value="Ex2" />
     <MESSAGE value="Ex2_1 done" />
     <option name="LAST_COMMIT_MESSAGE" value="Ex2_1 done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
