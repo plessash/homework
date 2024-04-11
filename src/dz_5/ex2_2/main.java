@@ -14,9 +14,9 @@ public class main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-SimpleBookTextSearch simpleBookTextSearch = new SimpleBookTextSearch();
-simpleBookTextSearch.countWord("война",text);
-RegexBookTextsearch regexBookTextsearch = new RegexBookTextsearch();
-regexBookTextsearch.countWord("кричал",text);
+Findable simple = new SimpleBookTextSearch();
+        simple.countWord("война", text);
+Findable regex = new RegexBookTextsearch();
+        regex.countWord("кричал",text);
     }
 }
