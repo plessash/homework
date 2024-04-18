@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="Ex2_1 done">
-      <change beforePath="$PROJECT_DIR$/src/dz_5/ex2_2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_5/ex2_2/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="Ex2_1 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712856943482</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Ex2_1 done">
+      <option name="closed" value="true" />
+      <created>1712860347806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712860347806</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
