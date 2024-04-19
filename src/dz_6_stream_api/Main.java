@@ -5,6 +5,8 @@ import org.example.util.Util;
 
 import java.io.IOException;
 import java.lang.reflect.Array;
+import java.time.LocalDate;
+import java.time.Period;
 import java.time.chrono.JapaneseDate;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -102,12 +104,12 @@ public class Main {
 
     private static void task9() throws IOException {
         List<Animal> animals = Util.getAnimals();
-        animals.stream()
+        int shortestArrayLength = animals.stream()
                 .map(animal -> animal.getBread())
-                .collect(Collectors.joining())
-                .chars()
-                .mapToObj(a -> (char) a)
-                .forEach(System.out::println);
+                .map(breadString -> breadString.toCharArray())
+                .mapToInt(arr->arr.length)
+                .min()
+                .getAsInt();
     }
 
     private static void task10() throws IOException {
@@ -130,11 +132,17 @@ public class Main {
 
     private static void task12() throws IOException {
         List<Person> people = Util.getPersons();
+        LocalDate today = LocalDate.now();
         people.stream()
-                .filter(person -> person.getGender().equals("Male"))
-                .filter(person -> (person.getDateOfBirth().getYear() <= 2006)
-                        && person.getDateOfBirth().getYear() >= 1997)
-
+                .filter(person->person.getGender().equals("Male"))
+                .filter(person -> {
+                    LocalDate bithday = person.getDateofBith();
+                    int age = Period.between(bithday, today).getYears();
+                    return age >= 18 && age <= 27;
+                })
+                .sorted(Comparator.comparing(Person::getRecruitmentGroup))
+                .limit(200)
+                .forEach(System.out::println);
 
     }
 
