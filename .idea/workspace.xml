@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="Ex2_1 done" />
+    <list default="true" id="6767fc31-60a2-4068-90d3-9596235ea121" name="Changes" comment="1 and 2 done!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz_6_stream_api/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_6_stream_api/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz_7_Exception/ex_2/CustomException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_7_Exception/ex_2/CustomException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz_7_Exception/ex_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_7_Exception/ex_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz_7_Exception/ex_2/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz_7_Exception/ex_2/Method2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +43,16 @@
     "Application.Ex1_2.executor": "Run",
     "Application.Ex1_3.executor": "Run",
     "Application.Ex2_1.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
     "Application.MyArrayList.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Regex.executor": "Run",
     "Application.SimpleBookTextSearch.executor": "Run",
     "Application.Task011.executor": "Run",
     "Application.Text.executor": "Run",
+    "Application.TryCatchFinaly.executor": "Run",
     "Application.ex22_2.executor": "Run",
     "Application.ex2_1.executor": "Run",
     "Application.ex2_2.executor": "Run",
@@ -52,6 +62,7 @@
     "Application.main.executor": "Run",
     "Application.myArrayList.executor": "Run",
     "Application.myarraylist.executor": "Run",
+    "Application.sassa.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -62,6 +73,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="dz_7_Exception.ex_2" />
       <recent name="dz_5.ex2" />
       <recent name="dz55" />
       <recent name="dz_4" />
@@ -200,14 +212,88 @@
       <option name="project" value="LOCAL" />
       <updated>1712860347806</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="6">
+      <option name="closed" value="true" />
+      <created>1713472226642</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713472226642</updated>
+    </task>
+    <task id="LOCAL-00013" summary="6">
+      <option name="closed" value="true" />
+      <created>1713472544762</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713472544762</updated>
+    </task>
+    <task id="LOCAL-00014" summary="6">
+      <option name="closed" value="true" />
+      <created>1713472584830</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713472584830</updated>
+    </task>
+    <task id="LOCAL-00015" summary="6">
+      <option name="closed" value="true" />
+      <created>1713472624744</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713472624744</updated>
+    </task>
+    <task id="LOCAL-00016" summary="6">
+      <option name="closed" value="true" />
+      <created>1713472768691</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713472768691</updated>
+    </task>
+    <task id="LOCAL-00017" summary="6">
+      <option name="closed" value="true" />
+      <created>1713524812741</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713524812741</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1 and 2 done!">
+      <option name="closed" value="true" />
+      <created>1713822355789</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713822355789</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1 and 2 done!">
+      <option name="closed" value="true" />
+      <created>1713822901622</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713822901622</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1 and 2 done!">
+      <option name="closed" value="true" />
+      <created>1713822962708</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713822962708</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="com1" />
     <MESSAGE value="Ex2" />
     <MESSAGE value="Ex2_1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex2_1 done" />
+    <MESSAGE value="6" />
+    <MESSAGE value="1 and 2 done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 and 2 done!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -216,6 +302,24 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="dz_7_Exception.ex_2.CustomException" package="dz_7_Exception.ex_2" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/stream-example/src/main/java/org/example/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_3/Example.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
