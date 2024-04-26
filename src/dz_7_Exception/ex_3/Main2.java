@@ -1,6 +1,5 @@
-package ex_3;
+package dz_7_Exception.ex_3;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Main2 {
     public static void main(String[] args) {
