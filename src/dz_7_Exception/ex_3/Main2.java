@@ -31,7 +31,7 @@ public class Main2 {
         for (int i : array) {
             arrlist.add(i);
         }
-        arrlist.stream().sorted().forEach(System.out::println);
+        arrlist.stream().sorted().forEach(System.out::print);
     }
 }
 
